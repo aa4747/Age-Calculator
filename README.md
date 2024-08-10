@@ -1,2 +1,2 @@
 # Age-Calculator
-by code alpha
+for code alpha
